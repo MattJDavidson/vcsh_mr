@@ -1,0 +1,2 @@
+[$HOME/.config/vcsh/repo.d/x11.git]
+checkout = vcsh clone git@github.com:MattJDavidson/vcsh_x11.git x11
